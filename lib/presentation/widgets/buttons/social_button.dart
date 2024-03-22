@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nimbus/values/values.dart';
+// ignore: unused_import
 import 'package:url_launcher/link.dart';
 
 class SocialButtonData {

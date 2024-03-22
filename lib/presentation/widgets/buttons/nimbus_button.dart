@@ -28,7 +28,8 @@ class NimbusButton extends StatelessWidget {
   final TextStyle? titleStyle;
   final Color titleColor;
   final Color buttonColor;
-  final BorderRadius? borderRadius;
+  // final BorderRadius? borderRadius;
+  BorderRadius borderRadius = BorderRadius.zero;
   final EdgeInsetsGeometry padding;
   final String url;
   final LinkTarget linkTarget;
